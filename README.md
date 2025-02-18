@@ -29,6 +29,8 @@ In the AWS Console, search for "S3" and open it.
 - Block Public Access (default settings; uncheck if you need public access).
 - Click "Create bucket".
 
+- <img src = "Bucket" height = 400px>
+
 ### Step 3: Upload Example Files
 
 - Open your S3 bucket.
@@ -99,7 +101,7 @@ In the AWS Console, search for "S3" and open it.
 
 🚨 **Security Note:** Making a bucket public allows anyone to access the files. Use IAM roles instead if security is a concern.
 
-![Image Placeholder](path/to/image.png)
+<img src = "Policy Generator" height = 400px>
 
 #### ➡️ Option 2: Granting Specific User Access via IAM Policies
 
@@ -128,7 +130,7 @@ In the AWS Console, search for "S3" and open it.
 - Click **Review Policy** → Name your policy → Click **Create Policy**.
 - Attach this policy to IAM users, groups, or roles.
 
-![Image Placeholder](path/to/image.png)
+<img src = "Image" height = 400px>
 
 ---
 
