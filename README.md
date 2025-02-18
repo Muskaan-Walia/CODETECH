@@ -46,7 +46,9 @@ In the AWS Console, search for "S3" and open it.
 - Click "Save Changes".
 - Copy the File URL for sharing.
 
-![Image Placeholder](access_denyed.png)
+<img src = "access_denyed.png" height = 400px>
+
+<img src = "JSON code developeer" height = 400px>
 
 ---
 
